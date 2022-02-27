@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+
+}
+
+h2{
+    color: azure;
+    text-align: center;
+}
+
+h3{
+    color: aqua;
+    text-align: center;
+}
+
+.ASDF {
+    color: azure;
+}
